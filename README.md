@@ -72,14 +72,9 @@ Federated fine-tuning of vision-language foundation models for cross-domain medi
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MatrixHackin&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=58C7D9&text_color=C9D1D9&icon_color=E97730" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MatrixHackin&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=087E8B&text_color=24292F&icon_color=C45119" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=MatrixHackin&show_icons=true&hide_border=true&rank_icon=github" alt="Hemu's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatrixHackin&layout=compact&hide_border=true&bg_color=00000000&title_color=58C7D9&text_color=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatrixHackin&layout=compact&hide_border=true&bg_color=00000000&title_color=087E8B&text_color=24292F" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatrixHackin&layout=compact&hide_border=true" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatrixHackin&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatrixHackin&theme=github" />
+    <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatrixHackin&theme=github" alt="Hemu's GitHub contribution activity" />
   </picture>
 </div>
 
