@@ -15,14 +15,15 @@
 
 ## About me
 
-I am **Hemu Liu**, trained in Computer Science at the **Southern University of Science and Technology (SUSTech)** with a focus on high-performance computing and AI. My work sits at the intersection of distributed systems, efficient model training, and resource-aware computing.
+I am **Hemu Liu**, going to be **Phd in DSA Thrust InfoHub at HKUST(gz)**, recieved **Bachelor of Engineering in Computer Science and Technology at the Southern University of Science and Technology (SUSTech)** with a focus on high-performance computing and AI. My work sits at the intersection of distributed systems, efficient model training, and resource-aware computing.
 
-- Worked on dynamic parallelism for multimodal large language model training at **THU (Shenzhen)**.
-- Studied sustainable GPU sharing and scheduling for multi-tenant cloud environments at **HKUST (Guangzhou)**.
-- Previously worked on federated fine-tuning of vision-language models for cross-domain medical imaging.
-- Maintained SUSTech's **Qiming** HPC cluster and led the Huawei Cloud-SUSTech ICT Club.
+- Worked on *agent development* and evaluation at **Tencent**
+- Worked on *sustainable GPU sharing and scheduling for multi-tenant cloud environments* at **SuscomLab@HKUST (Guangzhou)**.
+- Worked on *dynamic parallelism for multimodal large language model training* at **MMLab@THU (Shenzhen)**.
+- Worked on *federated fine-tuning of vision-language models for cross-domain medical imaging* at **iMED@SUSTech**
+- Maintained SUSTech's **Qiming** HPC cluster and led the **Huawei Cloud-SUSTech ICT Club and HSD**.
 
-## Current focus
+## Interests
 
 | Area | What I work on |
 | :--- | :--- |
@@ -30,20 +31,6 @@ I am **Hemu Liu**, trained in Computer Science at the **Southern University of S
 | **GPU systems** | Sustainable resource sharing and scheduling in multi-tenant clouds |
 | **HPC optimization** | Architecture-aware kernels, cluster operations, and scientific workloads |
 | **AI for healthcare** | Federated vision-language models and personalized corneal shaping |
-
-## Selected work
-
-### DynaParal
-
-Dynamic hybrid parallelism for efficient training of multimodal large language models with variable inputs. Conducted with the DML Group at THU (Shenzhen).
-
-### Sustainable GPU resource sharing
-
-Resource sharing and scheduling for GPU clusters in multi-tenant cloud environments, with an emphasis on sustainability and utilization. Conducted with SusComLab at HKUST (Guangzhou).
-
-### Federated medical VLMs
-
-Federated fine-tuning of vision-language foundation models for cross-domain medical image classification at SUSTech iMED.
 
 ## Selected highlights
 
