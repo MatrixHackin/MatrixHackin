@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Hemu Liu - HPC and AI Systems</title>
+  <desc id="desc">A computational topology connecting distributed nodes around Hemu Liu's name.</desc>
+
+  <rect width="1200" height="300" fill="#0B1015" />
+  <path d="M0 255H1200" stroke="#25313B" />
+  <path d="M48 36V264M96 36V264M144 36V264M1056 36V264M1104 36V264M1152 36V264" stroke="#182129" stroke-width="1" />
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 88H136L186 138H280L330 188H405" stroke="#30404A" stroke-width="2" />
+    <path d="M48 212H126L178 160H280L330 110H405" stroke="#30404A" stroke-width="2" />
+    <path d="M795 110H870L920 160H1022L1074 212H1152" stroke="#30404A" stroke-width="2" />
+    <path d="M795 188H870L920 138H1014L1064 88H1152" stroke="#30404A" stroke-width="2" />
+    <path d="M146 88L178 160M186 138L126 212M1014 138L1074 212M1022 160L1064 88" stroke="#26353E" stroke-width="1" />
+  </g>
+
+  <g fill="#58C7D9">
+    <circle cx="48" cy="88" r="5" /><circle cx="186" cy="138" r="4" />
+    <circle cx="178" cy="160" r="4" /><circle cx="330" cy="188" r="5" />
+    <circle cx="920" cy="160" r="4" /><circle cx="1022" cy="160" r="4" />
+    <circle cx="1152" cy="88" r="5" />
+  </g>
+  <g fill="#E97730">
+    <rect x="42" y="206" width="12" height="12" rx="2" />
+    <rect x="324" y="104" width="12" height="12" rx="2" />
+    <rect x="864" y="182" width="12" height="12" rx="2" />
+    <rect x="1146" y="206" width="12" height="12" rx="2" />
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="600" y="68" fill="#58C7D9" font-size="15" text-anchor="middle" letter-spacing="3">MATRIXHACKIN</text>
+    <text x="600" y="148" fill="#F4F7F8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="64" font-weight="700" text-anchor="middle">Hemu Liu</text>
+    <text x="600" y="190" fill="#9EADB7" font-size="17" text-anchor="middle">HPC · AI SYSTEMS · DISTRIBUTED TRAINING</text>
+    <text x="600" y="242" fill="#E97730" font-size="13" text-anchor="middle">COMPUTE / SCHEDULE / SCALE</text>
+  </g>
+
+  <path d="M468 265H732" stroke="#58C7D9" stroke-width="2" />
+  <path d="M570 265H630" stroke="#E97730" stroke-width="4" />
+</svg>
